@@ -1,0 +1,7 @@
+C:\Users\Mila7\source\repos\Server_call\Server_call\bin\Debug\Server_call.exe.config
+C:\Users\Mila7\source\repos\Server_call\Server_call\bin\Debug\Server_call.exe
+C:\Users\Mila7\source\repos\Server_call\Server_call\bin\Debug\Server_call.pdb
+C:\Users\Mila7\source\repos\Server_call\Server_call\obj\Debug\Server_call.csprojAssemblyReference.cache
+C:\Users\Mila7\source\repos\Server_call\Server_call\obj\Debug\Server_call.csproj.CoreCompileInputs.cache
+C:\Users\Mila7\source\repos\Server_call\Server_call\obj\Debug\Server_call.exe
+C:\Users\Mila7\source\repos\Server_call\Server_call\obj\Debug\Server_call.pdb
